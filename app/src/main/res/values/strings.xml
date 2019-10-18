@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">ProLiga 2019</string>
+    <string name="about">About</string>
+    <string name="leonanta_pramudya_kusuma">Leonanta Pramudya Kusuma</string>
+    <string name="details">Details</string>
+    <string name="surabaya_bhayangkara_samator">Surabaya Bhayangkara Samator</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="team_coach">Team Coach</string>
+    <string name="team_captain">Team Captain</string>
+    <string name="sponsor">Sponsor</string>
+    <string name="email">leonantapramudya7@gmail.com</string>
+    <string name="team_description">Team Description</string>
+
+    <string-array name="item_name">
+        <item>Surabaya Bhayangkara Samator</item>
+        <item>Jakarta BNI 46 (Putra)</item>
+        <item>Palembang Bank Sumsel Babel</item>
+        <item>Jakarta Pertamina Energi (Putra)</item>
+        <item>Jakarta Garuda</item>
+        <item>Sidoarjo Aneka Gas Industri</item>
+        <item>Jakarta Elektrik PLN</item>
+        <item>Jakarta BNI 46 (Putri)</item>
+        <item>Jakarta Pertamina Energi (Putri)</item>
+        <item>Jakarta PGN Popsivo Polwan</item>
+        <item>Bandung Bank BJB Pakuan</item>
+    </string-array>
+
+    <array name="item_logo">
+        <item>https://pbs.twimg.com/profile_images/818369892197941249/R2kjyUoH_400x400.jpg</item>
+        <item>https://scontent-lga3-1.cdninstagram.com/vp/baa711eba9b113a955650db8a25a8350/5DCBC508/t51.2885-19/s320x320/46734472_332549560681063_6161719967294160896_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com</item>
+        <item>https://cdn.sindonews.net/dyn/620/content/2015/02/03/150/959363/bank-sumsel-babel-luncurkan-tim-proliga-2015-D6d.jpg</item>
+        <item>https://pbs.twimg.com/profile_images/819860982130307072/GUy9529F.jpg</item>
+        <item>https://scontent-sin6-1.cdninstagram.com/vp/dfa9bad000cda1307e6519430aa3e36c/5E2F940E/t51.2885-19/s150x150/46154148_2181299515417347_3094339412088061952_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&amp;_nc_cat=103</item>
+        <item>https://2.bp.blogspot.com/-yD03XNRISVI/WeVlzwBkCuI/AAAAAAAACc0/vtQ_qqEGR6g5PfPnaZzEa7BMz8RaOw_-gCLcBGAs/s1600/samator.png</item>
+        <item>https://i2.wp.com/www.radarcirebon.com/uploads/2017/02/jakarta-elektrik-pln.jpg?fit=500%2C339&amp;ssl=1</item>
+        <item>https://scontent-lga3-1.cdninstagram.com/vp/baa711eba9b113a955650db8a25a8350/5DCBC508/t51.2885-19/s320x320/46734472_332549560681063_6161719967294160896_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com</item>
+        <item>https://pbs.twimg.com/profile_images/819860982130307072/GUy9529F.jpg</item>
+        <item>https://i.ytimg.com/vi/ecUOwWpVuLU/hqdefault.jpg</item>
+        <item>https://scontent-iad3-1.cdninstagram.com/vp/5d32a79c7e6cef97fd05df128dabab06/5DAE5710/t51.2885-19/s320x320/51803960_1178302485678422_1250163597162577920_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com</item>
+    </array>
+
+    <array name="item_basecamp">
+        <item>Surabaya, Jawa Timur</item>
+        <item>Jakarta</item>
+        <item>Palembang, Sumatera Selatan</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Sidoarjo, Jawa Timur</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Bandung, Jawa Barat</item>
+    </array>
+
+    <array name="item_coach">
+        <item>Ibarsjah Djanu Tjahjono</item>
+        <item>Samsul Jais</item>
+        <item>Pascal Wilmar</item>
+        <item>Putut Marhaento</item>
+        <item>Eko Waluyo</item>
+        <item>Joni Sugiyatno</item>
+        <item>Octavian</item>
+        <item>Risco Herlambang</item>
+        <item>Muhammad Ansori</item>
+        <item>Chamnan Dokmai</item>
+        <item>Teddy Hidayat</item>
+    </array>
+
+    <array name="item_captain">
+        <item>Rendy Tamamilang</item>
+        <item>Aji Maulana</item>
+        <item>Bagus Wahyu Ardianto</item>
+        <item>Agung Seganti</item>
+        <item>Mahendra Rikha Buana</item>
+        <item>Ibnu Qurniadi</item>
+        <item>Jutarat Montripilla</item>
+        <item>Tri Retno Mutiara</item>
+        <item>Novia Andriyanti</item>
+        <item>Amalia Fajrina Nabila</item>
+        <item>Kokram Pimichaya</item>
+    </array>
+
+    <array name="item_sponsor">
+        <item>POLRI, Sukun Group, Samator</item>
+        <item>Bank Negara Indonesia</item>
+        <item>Bank Sumsel Babel</item>
+        <item>Pertamina</item>
+        <item>Petrokimia Gresik</item>
+        <item>Aneka Gas Industri</item>
+        <item>Perusahaan Listrik Negara</item>
+        <item>Bank Negara Indonesia</item>
+        <item>Pertamina</item>
+        <item>Perusahaan Gas Negara, POLRI</item>
+        <item>Bank BJB</item>
+    </array>
+
+    <array name="item_desc">
+        <item>Surabaya Bhayangkara Samator adalah club voli yang memiliki basecamp di Surabaya Jawa Timur. Club ini sering menjadi pemenang Proliga, dan sering disebut menjadi juara bertahan.</item>
+        <item>Jakarta BNI 46 adalah club voli yang memiliki basecamp di Jakarta. Pemain dari club ini diantaranya Sigit Ardian, Dio Zulfikri, dll.</item>
+        <item>Palembang Bank Sumsel Babel adalah club voli yang memiliki basecamp di Palembang, Sumatera Selatan. Pada musim Proliga 2019, club ini dilatih oleh coach Pascal Wilmar.</item>
+        <item>Jakarta Pertamina Energi (Putra) adalah club voli yang memiliki basecamp di Jakarta. Club yang disponsori oleh Pertamina ini juga diperkuat oleh beberapa pemain asing salah satunya yaitu Minic.</item>
+        <item>Jakarta Garuda adalah club voli yang memiliki basecamp di Jakarta. Club ini termasuk club pendatang baru di Proliga 2019, dan diperkuat oleh beberapa pemain muda seperti Alfin Daniel yang memiliki posisi sebagai setter.</item>
+        <item>Sidoarjo Aneka Gas Industri adalah club voli yang memiliki basecamp di Sidorajo, Jawa Timur. Club ini bisa dibilang sebagai adik dari Surabaya Bhayangkara Samator.</item>
+        <item>Jakarta Elektrik PLN adalah club voli yang memiliki basecamp di Jakarta. Pada musim Proliga 2019, club ini cukup mendominasi permainan bola voli.</item>
+        <item>Jakarta BNI 46 (Putri) adalah club voli yang memiliki basecamp di Jakarta. Club ini juga diperkuat oleh beberapa pemain timnas voli putri Indonesia seperti Tri Retno Mutiara, Nur Laili Kusuma, dll.</item>
+        <item>Jakarta Pertamina Energi (Putri) adalah club voli yang memiliki basecamp di Jakarta. Club ini sangat mendominasi dari awal musim hingga lolos ke final four melawan Jakarta BNI 46.</item>
+        <item>Jakarta PGN Popsivo Polwan adalah club voli yang memiliki basecamp di Jakarta. Club ini cukup menarik perhatian karena diperkuat beberapa pemain yang juga berprofesi sebagai polwan.</item>
+        <item>Bandung Bank BJB Pakuan adalah club voli yang memiliki basecamp di Bandung. Club ini disponsori oleh Bank BJB.</item>
+    </array>
+</resources>
